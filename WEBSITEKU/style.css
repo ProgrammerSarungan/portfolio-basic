@@ -1,0 +1,24 @@
+
+a:link {
+  color: sienna;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: saddlebrown;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: firebrick;
+  background-color: skyblue;
+  text-decoration: solid;
+}
+
+a:active {
+  color: seagreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
